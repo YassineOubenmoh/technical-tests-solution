@@ -22,10 +22,10 @@ This system provides the following features:
   7. Display room details along with all bookings
   8. Display user details
 Exceptions handled:
-  . Booking already exists
-  . Check-out date is before check-in date
-  . Room, user, or booking not found
-  . The room requested for booking is already occupied
+  1. Booking already exists
+  2. Check-out date is before check-in date
+  3. Room, user, or booking not found
+  4. The room requested for booking is already occupied
 
   
   
