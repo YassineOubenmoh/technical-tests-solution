@@ -1,32 +1,44 @@
-# technical-tests
-Ce repository contient mes solutions pour les deux tests techniques
+<h1># Banking & Hotel Services</h1>
+<p>This repository contains a <strong>design of a Banking Service and a Hotel Service</strong> implemented using <strong>Core Java</strong>.</p>
 
-# Banking-service :
-Ce système permet d'effectuer les fonctionnalités suivantes : 
-  1. Perform a transaction
-  2. Display the transactions performed by an account
-  3. Exceptions handled in the system:
-      . Insufficient balance when attempting a withdrawal
-      . Attempting to withdraw a negative amount
-      . Attempting to perform a withdrawal or a deposit with a zero amount
+<hr>
 
+<h2>Banking Service</h2>
+<p>This system allows the following functionalities:</p>
+<ul>
+    <li>Perform a transaction</li>
+    <li>Display the transactions performed by an account</li>
+</ul>
 
-# Hotel Reservation system : 
-This system provides the following features:
-  1. Add new Room.
-  2. Add new User.
-  3. Update Room information.
-  4. Update User informations.
-  5. Add new Booking.
-  6. Verify room availability for a specific time period
-  7. Display room details along with all bookings
-  8. Display user details
-  
-  # Exceptions handled:
-  1. Booking already exists
-  2. Check-out date is before check-in date
-  3. Room, user, or booking not found
-  4. The room requested for booking is already occupied
+<h3>Exceptions handled:</h3>
+<ul>
+    <li>Insufficient balance when attempting a withdrawal</li>
+    <li>Attempting to withdraw a negative amount</li>
+    <li>Attempting to perform a withdrawal or deposit with a zero amount</li>
+</ul>
 
-  
-  
+<hr>
+
+<h2>Hotel Reservation System</h2>
+<p>This system provides the following features:</p>
+<ul>
+    <li>Add a new Room</li>
+    <li>Add a new User</li>
+    <li>Update Room information</li>
+    <li>Update User information</li>
+    <li>Add a new Booking</li>
+    <li>Verify room availability for a specific time period</li>
+    <li>Display room details along with all bookings</li>
+    <li>Display user details</li>
+</ul>
+
+<h3>Exceptions handled:</h3>
+<ul>
+    <li>Booking already exists</li>
+    <li>Check-out date is before check-in date</li>
+    <li>Room, user, or booking not found</li>
+    <li>The room requested for booking is already occupied</li>
+</ul>
+
+</body>
+</html>
